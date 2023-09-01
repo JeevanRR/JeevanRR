@@ -1,4 +1,3 @@
- 
 <h1 align="center">Hi 👋, I'm Jeevan BM</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a335a32660f02bd6ec0ffee9cdb23b8e95a5c50efa826d6ceca31f3a8ca72527/68747470733a2f2f6d656469612e74656e6f722e636f6d2f427162496854344d62376341414141642f70726f6772616d6d65722d726f756e6465642d65646765732e676966">
